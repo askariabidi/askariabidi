@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @askariabidi
+- 👀 I’m interested in Web 3.0.
+- 🌱 I’m currently learning Solidity.
+- 📫 +92 334 1331897
