@@ -26,7 +26,7 @@ I'm a passionate software engineer, currently pursuing my master's in Software S
 - Exploring **microservices architecture** and **cloud computing**.
 
 ### 📫 How to reach me
-- LinkedIn: [Syed Mohammad Askari Abidi](https://www.linkedin.com/in/syed-mohammad-askari-abidi-06b913286/))
+- LinkedIn: [Syed Mohammad Askari Abidi](https://www.linkedin.com/in/syed-mohammad-askari-abidi-06b913286/)
 - Email: [askari@example.com](mailto:smaskariabidi110@gmail.com)
 
 Let’s connect! 🤝
