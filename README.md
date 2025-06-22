@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Syed Mohammad Askari Abidi
 
 🎓 Master's Student in Software Science and Technology @ University of Florence  
-💻 Former Software Engineer | MERN Stack | Node.js | SharePoint Developer  
+💻 Software Engineer | MERN Stack | Node.js | SharePoint Developer  
 🌍 Currently based in Italy | Passionate about global software ecosystems  
 📊 Building intelligent systems with Machine Learning, Optimization, and Control Theory
 
@@ -36,13 +36,6 @@ Combining data collection, neural networks, and classical control theory to desi
 - **Tools & DevOps:** Git, Docker, GitHub Actions, SonarCloud, Maven  
 - **ML & Data:** NumPy, Pandas, Scikit-Learn, TensorFlow, MATLAB  
 - **Others:** SharePoint, REST APIs, SQL, MongoDB, Latex, UML, Swing
-
----
-
-## 📈 GitHub Stats
-
-![Askari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=askarabidi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=askarabidi&layout=compact&theme=tokyonight)
 
 ---
 
