@@ -42,7 +42,7 @@ Combining data collection, neural networks, and classical control theory to desi
 ## 📬 Contact Me
 
 - 📧 Email: smaskariabidi110@gmail.com | syed.abidi@edu.unifi.it  
-- 💼 LinkedIn: [linkedin.com/in/smaskarabidi]([https://linkedin.com/in/askarabidi](https://www.linkedin.com/in/syed-mohammad-askari-abidi-06b913286/))  
+- 💼 LinkedIn: [linkedin.com/in/askarabidi]([https://linkedin.com/in/askarabidi](https://www.linkedin.com/in/syed-mohammad-askari-abidi-06b913286/)) 
 - ☕ Let’s chat about AI, systems design, freelancing, or coffee!  
 
 ---
