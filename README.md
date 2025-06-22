@@ -1,32 +1,59 @@
-# Hi there, I'm Syed Mohammad Askari Abidi 👋
+# 👋 Hi, I'm Syed Mohammad Askari Abidi
 
-I'm a passionate software engineer, currently pursuing my master's in Software Science and Technology at the University of Florence, Italy. I graduated with a degree in Computer Science from IBA Karachi in 2021 and have been working professionally ever since.
+🎓 Master's Student in Software Science and Technology @ University of Florence  
+💻 Former Software Engineer | MERN Stack | Node.js | SharePoint Developer  
+🌍 Currently based in Italy | Passionate about global software ecosystems  
+📊 Building intelligent systems with Machine Learning, Optimization, and Control Theory
 
-### 🚀 About Me
-- 🧑‍💻 **Senior Software Engineer** with experience in full-stack development (MERN stack).
-- 📚 Currently diving deeper into backend technologies using **Node.js** and exploring DEX-related projects.
-- 🎓 Actively learning **Italian** to immerse myself fully in Italian culture and work environments.
+---
 
-### 🛠️ Tech Stack
-- **Languages**: JavaScript (Node.js, React), Java, HTML, CSS, SQL
-- **Backend**: Node.js, Express, RESTful APIs
-- **Frontend**: React, HTML5, CSS3, Material-UI, Bootstrap
-- **Databases**: MongoDB, MySQL
-- **Tools & Platforms**: Docker, Git, GitHub, SonarCloud, Maven
-- **Testing**: Jest, Mocha, Chai (TDD)
-- **Cloud**: AWS (S3, Lambda, EC2)
+## 🚀 About Me
 
-### 📂 Projects & Contributions
-- [Order Worker Management System](#) - A Java Swing-based application using **MVC** and **TDD**.
-- [Trading Pairs API](#) - Fetching and managing trading pairs using a decentralized exchange (DEX).
-- [Filtered Items API](#) - API that processes and filters items from a database based on specific conditions.
+I’m a software engineer and graduate student passionate about building meaningful, intelligent, and impactful software solutions. With a background in full-stack web development and a growing specialization in AI/ML systems, I bridge theory and practice in modern computing.
 
-### 🌱 I’m currently learning
-- Enhancing my **Italian** proficiency for better communication with local teams and clients.
-- Exploring **microservices architecture** and **cloud computing**.
+💡 I thrive at the intersection of systems engineering, data science, and machine learning.  
+🛠️ I love automating things, solving real-world problems, and contributing to open-source.
 
-### 📫 How to reach me
-- LinkedIn: [Syed Mohammad Askari Abidi](https://www.linkedin.com/in/syed-mohammad-askari-abidi-06b913286/)
-- Email: [smaskariabidi110@gmail.com](mailto:smaskariabidi110@gmail.com)
+---
 
-Let’s connect! 🤝
+## 🧠 Current Focus
+
+🔬 **Research Project (2024–2025):**  
+**A Custom Anomaly Detector for Laptops or Workstations**  
+Combining data collection, neural networks, and classical control theory to design a hybrid detection and control model.
+
+📚 **Courses I'm loving right now:**  
+- Optimization and Machine Learning for Dynamical Systems  
+- Advanced Techniques and Tools for Software Development  
+- International Taxation (OECD Model Convention)
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Python, Go, Java, C++
+- **Frameworks:** React, Node.js, Express, Spring Boot, Flask  
+- **Tools & DevOps:** Git, Docker, GitHub Actions, SonarCloud, Maven  
+- **ML & Data:** NumPy, Pandas, Scikit-Learn, TensorFlow, MATLAB  
+- **Others:** SharePoint, REST APIs, SQL, MongoDB, Latex, UML, Swing
+
+---
+
+## 📈 GitHub Stats
+
+![Askari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=askarabidi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=askarabidi&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: smaskariabidi110@gmail.com | syed.abidi@edu.unifi.it  
+- 💼 LinkedIn: [linkedin.com/in/smaskarabidi]([https://linkedin.com/in/askarabidi](https://www.linkedin.com/in/syed-mohammad-askari-abidi-06b913286/))  
+- ☕ Let’s chat about AI, systems design, freelancing, or coffee!  
+
+---
+
+> “Code is not just meant to run. It's meant to **think**, adapt, and evolve with the world.”  
+> — *Askari Abidi*
+
